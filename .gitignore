@@ -1,0 +1,21 @@
+# Unreal Engine generated/transient folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# OS / editor junk
+Thumbs.db
+.DS_Store
+
+# Keep MCP + project config, Content, and source under version control.

@@ -1,0 +1,12 @@
+{
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "unreal-mcp"
+  ],
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p ~/.ssh)",
+      "Bash(ssh-keyscan -t ed25519 github.com)"
+    ]
+  }
+}
